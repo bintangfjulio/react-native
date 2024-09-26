@@ -16,7 +16,7 @@ const FirstScreen = () => {
   );
 };
 
-const ChalengeScreen = () => {
+const ChallengeScreen = () => {
   const showAlert = () => {
     alert('You are awesome!');
   };
@@ -45,4 +45,4 @@ const ChalengeScreen = () => {
 };
 
 // export default FirstScreen;
-export default ChalengeScreen;
+export default ChallengeScreen;
